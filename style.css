@@ -1,0 +1,141 @@
+#navbar{
+
+    background-color: #84B2CA;
+    width: 100%;
+    height: 140;
+   
+}
+
+#navbar ul{
+
+    list-style: none;
+    margin-left: 70%;
+    
+}
+
+#navbar li{
+
+    float: left;
+    padding-left: 20px;
+    margin-top: 50;
+}
+
+#navbar a{
+    color: white;
+    text-decoration: none;
+    font-size: 15;
+    font-family: Verdana;
+}
+
+#navbar img{
+
+    float: left;
+    margin-top: 12;
+    margin-left: 30;
+    height: 120;
+}
+
+#navbar h1{
+
+    float: left;
+    margin-left: 35;
+    font-size: 25;
+    margin-top: 50;
+    color: white;
+    font-weight: 20;
+    font-family: Verdana;
+}
+
+body{
+    margin: 0;
+}
+
+#headerm{
+
+    margin-left: 100;
+    margin-right: 150;
+    font-weight: 10;
+    margin-top: 80;
+    color: #EFBC9F;
+    font-family: Verdana;
+    font-size: 70;
+    text-align: center;
+}
+
+#about{
+
+
+    font-family: Verdana;
+    color: black;
+    width: 900;
+    padding-bottom: 20;
+    padding-left: 20;
+    padding-right: 20;
+    margin-right: 70;
+    
+    font-weight: 25;
+    margin-left: 250;
+    line-height: 1.5;
+   
+
+    
+}
+
+#abtitle{
+
+    margin-left: 620;
+    margin-right: 70;
+    margin-bottom: 0;
+    margin-top: 100;
+    font-family: Verdana;
+    font-size: 30;
+    color: #EFBC9F;
+    
+}
+
+#selectbar{
+
+    width: 100%;
+    margin-top: 50;
+    height: 250;
+    background-color: #EFBC9F;
+
+
+}
+
+.select{
+
+    width: 200;
+    float: left;
+    font-family: Verdana;
+    margin-left: 85;
+    margin-right: 70;
+    
+}
+
+.select h5{
+
+    font-size: 25;
+    color: black;
+    margin-bottom: 0;
+}
+
+.select p{
+
+    font-size: 17;
+    color: black;
+    margin-bottom: 40;
+}
+
+.select a{
+    border: 2px black solid;
+    height: 150;
+    border-radius: 20px;
+    font-size: 15;
+    text-decoration: none;
+    padding: 10;
+    color: black;
+    
+
+}
+
